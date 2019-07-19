@@ -1,4 +1,4 @@
-# python_course
+# Python_TW_Stock_Analysis
 Sharecourse Project - TW Stock Analysis
 
 This is my final report in Sharecourse Project, which is one of the online learning institutes in Taiwan. 
